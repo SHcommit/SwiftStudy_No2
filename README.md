@@ -4,6 +4,39 @@
 
 ✨**꼼꼼한 재은씨의 Swift 기본편**✨  복습 기록용 Repository입니다.
 
+
+<div align=center><h2> 📇 Info </h2></div>
+
+### 💡 chapter 1 
+
+ ◽ MVC 패턴
+ 
+ ◼️ 스토리보드(.storyboard)를 사용하는 이유?
+ 
+ ◽ 포그라운드(foreground) 상태란?
+ 
+ ---
+ 
+ ### 💡 chapter 2
+ 
+ ◼️ 사진 첨부된 MVC 패턴이란?!
+ 
+ ◽ window와 Root ViewController의 관계
+ 
+ ◼️ 코코아 터치 프레임워크(대장)
+ 
+ ---
+ 
+ ### 💡 chapter 3
+  
+ ◽ 어노테이션 ( @ )
+ 
+ ◼️ @IBAction과 @IBOutlet ( 아울렛 변수) 란?
+ 
+ ◽ ARC란? - 링크 참고
+ 
+ ---
+ 
 :gift: 각 챕터마다 프로젝트아래 README.md 파일에 중요한 핵심 개념을 정리했습니다.
 
 🔭 특정 함수에 대한 간단한 코드 리뷰를 작성할 것입니다.
