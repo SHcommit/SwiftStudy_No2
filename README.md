@@ -39,6 +39,16 @@
  
  ---
  
+ ### 💡 chapter4 화면을 전환하는 방법
+
+ ◼️ Segue, present(_:animated:)
+
+ ◽ Navigation을통한 화면 전환
+ 
+ ◼️ Unwind(화면 복귀)
+
+ ---
+ 
 :gift: 각 챕터마다 프로젝트아래 README.md 파일에 중요한 핵심 개념을 정리했습니다.
 
 🔭 특정 함수에 대한 간단한 코드 리뷰를 작성할 것입니다.
