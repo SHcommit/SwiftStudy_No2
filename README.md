@@ -49,6 +49,18 @@
 
  ---
  
+  ### 💡 chapter5 다른 뷰 컨트롤러에 데이터 전달하는 방법
+
+ ◼️ 동기, 비동기 방식
+
+ ◽ prev VC -> nextVC로 직접 전달하는 경우 
+ 
+ > Use present(_:animated:) or Manual Segue or Navigation Controller.
+ 
+ ◼️ 반대로 다음화면에서 이전화면으로 값을 update하려면?
+
+ ---
+ 
 :gift: 각 챕터마다 프로젝트아래 README.md 파일에 중요한 핵심 개념을 정리했습니다.
 
 🔭 특정 함수에 대한 간단한 코드 리뷰를 작성할 것입니다.
