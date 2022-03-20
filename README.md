@@ -61,6 +61,20 @@
 
  ---
  
+  ### 💡 chapter6 사용자에게 메시지 전달 방법
+  
+  ◼️ 싱글톤이란?
+  
+  ◽ 메시지 알림창 UIAlertController
+  
+  ◼️ 로컬알림 UserNotification, UILocalNotification
+  
+  ◽ 사용자가 로컬 알림 클릭했을 때 감지 방법
+
+  ◼️ 로컬 알림 예
+  
+  ---
+  
 :gift: 각 챕터마다 프로젝트아래 README.md 파일에 중요한 핵심 개념을 정리했습니다.
 
 🔭 특정 함수에 대한 간단한 코드 리뷰를 작성할 것입니다.
