@@ -139,3 +139,12 @@
 
   ---
  
+### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/blob/master/Ch10_TableViewAsync/README.md" target="_blank">chapter10 테이블 뷰 동작 원리</a>
+  
+  ◼️ 동기 방식
+  
+  ◽ 재사용 매커니즘
+  
+  ◼️ 비동기 방식(Async)
+  
+  ◽ 일반 UIViewController 를 참조한 Scene ( not UITableViewController) 에서 tableView 생성 방법
