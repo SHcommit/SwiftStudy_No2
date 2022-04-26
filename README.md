@@ -106,6 +106,21 @@
   ◼️ 이미지 처리와 캐싱
   
   ---
+  
+  OpenAPI를 통한 테이블 Cell 구현하기!
+Curd, restful, 파싱, json방식
+
+### 💡 chapter9 OpenAPI를 통한 TableViewCell 구현
+  
+  ◼️ CURD
+  
+  ◽ RESTful
+  
+  ◼️ 파싱
+  
+  ◽ Json 방식
+
+  ---
  
 :gift: 각 챕터마다 프로젝트아래 README.md 파일에 중요한 핵심 개념을 정리했습니다.
 
