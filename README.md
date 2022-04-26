@@ -9,7 +9,7 @@
 
 <div align=center><h2> 📇 Info </h2></div>
 
-### 💡 chapter 1 
+### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch1%22helloworld%22" target="_blank">chapter 1 </a>
 
  ◽ MVC 패턴
  
@@ -19,7 +19,7 @@
  
  ---
  
- ### 💡 chapter 2
+ ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch2%3CiOS%3EHierachy%2CLifeCycle" >chapter 2</a>
  
  ◼️ 사진 첨부된 MVC 패턴이란?!
  
@@ -29,7 +29,7 @@
  
  ---
  
- ### 💡 chapter 3
+ ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch3_outletVariable" target="_blank">chapter 3</a>
   
  ◽ 어노테이션 ( @ )
  
@@ -39,8 +39,7 @@
  
  ---
  
- ### 💡 chapter4 화면을 전환하는 방법
-
+ ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch4_%ED%99%94%EB%A9%B4%EC%A0%84%ED%99%98" target="_blank">chapter4 화면을 전환하는 방법</a>
  ◼️ Segue, present(_:animated:)
 
  ◽ Navigation을통한 화면 전환
@@ -49,7 +48,7 @@
 
  ---
  
-  ### 💡 chapter5 다른 뷰 컨트롤러에 데이터 전달하는 방법
+  ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch5_submitValue" target="_blank"> chapter5 다른 뷰 컨트롤러에 데이터 전달하는 방법</a>
 
  ◼️ 동기, 비동기 방식
 
@@ -61,7 +60,7 @@
 
  ---
  
-  ### 💡 chapter6 사용자에게 메시지 전달 방법
+  ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch6_Alert" target="_blank">chapter6 사용자에게 메시지 전달 방법</a>
   
   ◼️ 싱글톤이란?
   
@@ -75,7 +74,7 @@
   
   ---
   
-   ### 💡 chapter7 델리게이트 패턴의 사용
+   ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch7_DelegatePattern" target="_blank"> chapter7 델리게이트 패턴의 사용</a>
   
   ◼️ 델리게이트(delegate : 위임하다!!) 의미
   
@@ -89,7 +88,7 @@
   
   ---
   
-  ### 💡 chapter8 TableView 
+  ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch8_TableView" target="_blank">chapter8 TableView</a>
   
   ◼️ 테이블 뷰 컨트롤러
   
@@ -106,11 +105,8 @@
   ◼️ 이미지 처리와 캐싱
   
   ---
-  
-  OpenAPI를 통한 테이블 Cell 구현하기!
-Curd, restful, 파싱, json방식
 
-### 💡 chapter9 OpenAPI를 통한 TableViewCell 구현
+### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch9_RESTAPI" target="_blank">chapter9 OpenAPI를 통한 TableViewCell 구현</a>
   
   ◼️ CURD
   
