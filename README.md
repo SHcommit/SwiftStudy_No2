@@ -158,4 +158,27 @@
   ◽ 인 앱 브라우저 (In-App Browser)
   
   ◼️ 웹 브라우저 호출 4가지 방식
+  
   ◼️ 비동기 방식(Async)
+  
+  ---
+  
+  ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch12_TabBar" target="_blank">chapter12 탭 바 컨트롤러</a>
+  
+  ◼️ 수평적 관계
+  
+  ◽ Container Controller
+  
+  ◼️ 관계형 세그웨이
+  
+  ◼️ 비동기 방식(Async)
+  
+    ---
+  
+  ### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch13_mapKit" target="_blank">chapter13 맵킷 프레임워크</a>
+  
+  ◼️ 번들 프로그램
+  
+  ◽ 번들 애플리케이션
+  
+  ◼️ Segue 데이터 전달 복습
