@@ -148,3 +148,14 @@
   ◼️ 비동기 방식(Async)
   
   ◽ 일반 UIViewController 를 참조한 Scene ( not UITableViewController) 에서 tableView 생성 방법
+
+  ---
+ 
+### 💡 <a href="https://github.com/SHcommit/SwiftStudy_No2/tree/master/Ch11_WebView" target="_blank">chapter11 웹 브라우저 호출 방법</a>
+  
+  ◼️ 웹 뷰( Web View)
+  
+  ◽ 인 앱 브라우저 (In-App Browser)
+  
+  ◼️ 웹 브라우저 호출 4가지 방식
+  ◼️ 비동기 방식(Async)
